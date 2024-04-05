@@ -1,0 +1,160 @@
+id,name,acronym,symbol
+1,Antarctican dollar,AAD,$
+2,United Arab Emirates dirham,AED,إ.د
+3,Afghan afghani,AFN,؋
+4,Albanian lek,ALL,Lek
+5,Armenian dram,AMD,֏
+6,Netherlands Antillean guilder,ANG,ƒ
+7,Angolan kwanza,AOA,Kz
+8,Argentine peso,ARS,$
+9,Australian dollar,AUD,$
+10,Aruban florin,AWG,ƒ
+11,Azerbaijani manat,AZN,m
+12,Bosnia and Herzegovina convertible mark,BAM,KM
+13,Barbadian dollar,BBD,Bds$
+14,Bangladeshi taka,BDT,৳
+15,Bulgarian lev,BGN,Лв.
+16,Bahraini dinar,BHD,.د.ب
+17,Burundian franc,BIF,FBu
+18,Bermudian dollar,BMD,$
+19,Brunei dollar,BND,B$
+20,Bolivian boliviano,BOB,Bs.
+21,Brazilian real,BRL,R$
+22,Bahamian dollar,BSD,B$
+23,Bhutanese ngultrum,BTN,Nu.
+24,Botswana pula,BWP,P
+25,Belarusian ruble,BYN,Br
+26,Belize dollar,BZD,$
+27,Canadian dollar,CAD,$
+28,Congolese Franc,CDF,FC
+29,Swiss franc,CHF,CHf
+30,Chilean peso,CLP,$
+31,Chinese yuan,CNY,¥
+32,Colombian peso,COP,$
+33,Costa Rican colón,CRC,₡
+34,Cuban peso,CUP,$
+35,Cape Verdean escudo,CVE,$
+36,Czech koruna,CZK,Kč
+37,Djiboutian franc,DJF,Fdj
+38,Danish krone,DKK,Kr.
+39,Dominican peso,DOP,$
+40,Algerian dinar,DZD,دج
+41,Egyptian pound,EGP,ج.م
+42,Eritrean nakfa,ERN,Nfk
+43,Ethiopian birr,ETB,Nkf
+44,Euro,EUR,€
+45,Fijian dollar,FJD,FJ$
+46,Falkland Islands pound,FKP,£
+47,British pound,GBP,£
+48,Georgian lari,GEL,ლ
+49,Ghanaian cedi,GHS,GH₵
+50,Gibraltar pound,GIP,£
+51,Gambian dalasi,GMD,D
+52,Guinean franc,GNF,FG
+53,Guatemalan quetzal,GTQ,Q
+54,Guyanese dollar,GYD,$
+55,Hong Kong dollar,HKD,$
+56,Honduran lempira,HNL,L
+57,Croatian kuna,HRK,kn
+58,Haitian gourde,HTG,G
+59,Hungarian forint,HUF,Ft
+60,Indonesian rupiah,IDR,Rp
+61,Israeli new shekel,ILS,₪
+62,Indian rupee,INR,₹
+63,Iraqi dinar,IQD,د.ع
+64,Iranian rial,IRR,﷼
+65,Icelandic króna,ISK,kr
+66,Jamaican dollar,JMD,J$
+67,Jordanian dinar,JOD,ا.د
+68,Japanese yen,JPY,¥
+69,Kenyan shilling,KES,KSh
+70,Kyrgyzstani som,KGS,лв
+71,Cambodian riel,KHR,KHR
+72,Comorian franc,KMF,CF
+73,North Korean Won,KPW,₩
+74,Won,KRW,₩
+75,Kuwaiti dinar,KWD,ك.د
+76,Cayman Islands dollar,KYD,$
+77,Kazakhstani tenge,KZT,лв
+78,Lao kip,LAK,₭
+79,Lebanese pound,LBP,£
+80,Sri Lankan rupee,LKR,Rs
+81,Liberian dollar,LRD,$
+82,Lesotho loti,LSL,L
+83,Libyan dinar,LYD,د.ل
+84,Moroccan dirham,MAD,DH
+85,Moldovan leu,MDL,L
+86,Malagasy ariary,MGA,Ar
+87,Denar,MKD,ден
+88,Burmese kyat,MMK,K
+89,Mongolian tögrög,MNT,₮
+90,Macanese pataca,MOP,$
+91,Mauritanian ouguiya,MRO,MRU
+92,Mauritian rupee,MUR,₨
+93,Maldivian rufiyaa,MVR,Rf
+94,Malawian kwacha,MWK,MK
+95,Mexican peso,MXN,$
+96,Malaysian ringgit,MYR,RM
+97,Mozambican metical,MZN,MT
+98,Namibian dollar,NAD,$
+99,Nigerian naira,NGN,₦
+100,Nicaraguan córdoba,NIO,C$
+101,Norwegian Krone,NOK,kr
+102,Nepalese rupee,NPR,₨
+103,Cook Islands dollar,NZD,$
+104,New Zealand dollar,NZD,$
+105,Omani rial,OMR,.ع.ر
+106,Panamanian balboa,PAB,B/.
+107,Peruvian sol,PEN,S/.
+108,Papua New Guinean kina,PGK,K
+109,Philippine peso,PHP,₱
+110,Pakistani rupee,PKR,₨
+111,Polish złoty,PLN,zł
+112,Paraguayan guarani,PYG,₲
+113,Qatari riyal,QAR,ق.ر
+114,Romanian leu,RON,lei
+115,Serbian dinar,RSD,din
+116,Russian ruble,RUB,₽
+117,Rwandan franc,RWF,FRw
+118,Saudi riyal,SAR,﷼
+119,Solomon Islands dollar,SBD,Si$
+120,Seychellois rupee,SCR,SRe
+121,Sudanese pound,SDG,.س.ج
+122,Swedish krona,SEK,kr
+123,Singapore dollar,SGD,$
+124,Saint Helena pound,SHP,£
+125,Sierra Leonean leone,SLL,Le
+126,Somali shilling,SOS,Sh.so.
+127,Surinamese dollar,SRD,$
+128,South Sudanese pound,SSP,£
+129,Dobra,STD,Db
+130,Syrian pound,SYP,LS
+131,Lilangeni,SZL,E
+132,Thai baht,THB,฿
+133,Tajikistani somoni,TJS,SM
+134,Turkmenistan manat,TMT,T
+135,Tunisian dinar,TND,ت.د
+136,Tongan paʻanga,TOP,$
+137,Turkish lira,TRY,₺
+138,Trinidad and Tobago dollar,TTD,$
+139,New Taiwan dollar,TWD,$
+140,Tanzanian shilling,TZS,TSh
+141,Ukrainian hryvnia,UAH,₴
+142,Ugandan shilling,UGX,USh
+143,US Dollar,USD,$
+144,United States dollar,USD,$
+145,Uruguayan peso,UYU,$
+146,Uzbekistani soʻm,UZS,лв
+147,Bolívar,VES,Bs
+148,Vietnamese đồng,VND,₫
+149,Vanuatu vatu,VUV,VT
+150,Samoan tālā,WST,SAT
+151,Central African CFA franc,XAF,FCFA
+152,East Caribbean dollar,XCD,$
+153,Eastern Caribbean dollar,XCD,$
+154,West African CFA franc,XOF,CFA
+155,CFP franc,XPF,₣
+156,Yemeni rial,YER,﷼
+157,South African rand,ZAR,R
+158,Zambian kwacha,ZMW,ZK
+159,Zimbabwe Dollar,ZWL,$
